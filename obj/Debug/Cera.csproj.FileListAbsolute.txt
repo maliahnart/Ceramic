@@ -1,0 +1,17 @@
+F:\Test\Cera\bin\Debug\Cera.exe.config
+F:\Test\Cera\bin\Debug\Cera.exe
+F:\Test\Cera\bin\Debug\Cera.pdb
+F:\Test\Cera\bin\Debug\Guna.UI2.dll
+F:\Test\Cera\obj\Debug\Cera.csproj.AssemblyReference.cache
+F:\Test\Cera\obj\Debug\Cera.Form1.resources
+F:\Test\Cera\obj\Debug\Cera.Properties.Resources.resources
+F:\Test\Cera\obj\Debug\Cera.csproj.GenerateResource.cache
+F:\Test\Cera\obj\Debug\Cera.csproj.CoreCompileInputs.cache
+F:\Test\Cera\obj\Debug\Cera.csproj.Up2Date
+F:\Test\Cera\obj\Debug\Cera.exe
+F:\Test\Cera\obj\Debug\Cera.pdb
+F:\Test\Cera\obj\Debug\Cera.ForgetPass.resources
+F:\Test\Cera\obj\Debug\Cera.HomePage.resources
+F:\Test\Cera\obj\Debug\Cera.SignUp.resources
+F:\Test\Cera\bin\Debug\Cera.mdf
+F:\Test\Cera\bin\Debug\Cera_log.ldf

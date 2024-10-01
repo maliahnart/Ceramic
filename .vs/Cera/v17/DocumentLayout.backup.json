@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Test\\Cera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|f:\\test\\cera\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|solutionrelative:connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|F:\\Test\\Cera\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|F:\\Test\\Cera\\modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|solutionrelative:modify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|F:\\Test\\Cera\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|F:\\Test\\Cera\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|F:\\Test\\Cera\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|solutionrelative:forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|F:\\Test\\Cera\\forgetpass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|solutionrelative:forgetpass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|F:\\Test\\Cera\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AB0010-0CB6-45E6-88FB-D15A6D6C4B56}|Cera.csproj|solutionrelative:forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "F:\\Test\\Cera\\Connection.cs",
+              "RelativeDocumentMoniker": "Connection.cs",
+              "ToolTip": "F:\\Test\\Cera\\Connection.cs",
+              "RelativeToolTip": "Connection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:03:26.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Modify.cs",
+              "DocumentMoniker": "F:\\Test\\Cera\\Modify.cs",
+              "RelativeDocumentMoniker": "Modify.cs",
+              "ToolTip": "F:\\Test\\Cera\\Modify.cs",
+              "RelativeToolTip": "Modify.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA5wBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:03:37.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "F:\\Test\\Cera\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\Test\\Cera\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDMAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:42:24.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "F:\\Test\\Cera\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "F:\\Test\\Cera\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:11:42.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "F:\\Test\\Cera\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "F:\\Test\\Cera\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T06:03:09.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForgetPass.Designer.cs",
+              "DocumentMoniker": "F:\\Test\\Cera\\ForgetPass.Designer.cs",
+              "RelativeDocumentMoniker": "ForgetPass.Designer.cs",
+              "ToolTip": "F:\\Test\\Cera\\ForgetPass.Designer.cs",
+              "RelativeToolTip": "ForgetPass.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAvwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:34:09.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ForgetPass.cs",
+              "DocumentMoniker": "F:\\Test\\Cera\\ForgetPass.cs",
+              "RelativeDocumentMoniker": "ForgetPass.cs",
+              "ToolTip": "F:\\Test\\Cera\\ForgetPass.cs",
+              "RelativeToolTip": "ForgetPass.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:34:03.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgetPass.cs [Design]",
+              "DocumentMoniker": "F:\\Test\\Cera\\ForgetPass.cs",
+              "RelativeDocumentMoniker": "ForgetPass.cs",
+              "ToolTip": "F:\\Test\\Cera\\ForgetPass.cs [Design]",
+              "RelativeToolTip": "ForgetPass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:21:51.35Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
