@@ -19,11 +19,13 @@ namespace Cera
 
         private void btn_Signout_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Do you want to sign out?", "Announce", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes) { 
-            this.Close();
-            SignUp signUp = new SignUp();
-            signUp.ShowDialog();
+            if (MessageBox.Show("Do you want to sign out?", "Announce", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
+            {
+                this.Hide();
+                Form1 form1 = new Form1();
+                form1.ShowDialog();
             }
         }
+
     }
 }
